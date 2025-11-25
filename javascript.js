@@ -37,5 +37,5 @@ function createGrid(scale) {
     });
 }
 
-createGrid(100);
+createGrid(32);
 
